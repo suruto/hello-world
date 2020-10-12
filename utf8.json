@@ -1,0 +1,102 @@
+{
+   "stoppage": [
+    {
+      "comment":"10 Sept Deployment",
+      "date": [{ "@from": "09/10/2020 21:00:00", "@to": "09/10/2020 21:15:00"}],
+      "message": {"@eng": "System is currently out of service. Please try again later.\r\n\r\nIf you need any assistance, please call our Customer Hotline during our office hour with details as follows:\r\n\r\nHong Kong CS Hotline: (852) 2232 8888 or *1299 (on Hong Kong mobile network only)\r\n\r\nMacau CS Hotline: (853) 8988-1822\r\n\r\nFor “Investment-Linked Assurance Scheme” Fund switching/allocation requests,please <span>https://wwwuat2.aia.com.hk/en/aia-connect/my-policy-assistant/portfolio-summary-v5/bcp-info.html?<span>", "@zhs": "系统当前停止服务。请稍后再试。\r\n\r\n如果需要帮助，请在办公时间内拨打客户热线，详情如下：\r\n\r\nnk CS热线：（852）2232或8888（仅在香港移动网络）\r\n\r\nMACUS CS热线：（853）89881822\r\n\r\nNo“投资链接保证计划”资金切换/分配请求，请<span>https://wwwuat2.aia.com.hk/zh-cn/aia-connect/my-policy-assistant/portfolio-summary-v5/bcp-info.html?<span>", "@zht": "系統當前停止服務。請稍後再試。\r\n\r\n如果需要幫助，請於辦公時間致電客戶熱線，詳情如下：\r\n\r\n香港客戶服務熱線：（852）2232 8888或*1299（僅限香港移動網絡）\r\n\r\nMacau客戶服務熱線：（853）8988-1822\r\n\r\n有關“投資連結保障計畫”資金轉換/分配請求，請<span>https://wwwuat2.aia.com.hk/zh-hk/aia-connect/my-policy-assistant/portfolio-summary-v5/bcp-info.html?<span>"}, "title": {"@eng": "System maintenance", "@zhs": "系统更新", "@zht": "系統更新"}
+    },
+	
+    {
+      "comment":"20 Aug Deployment",
+      "date": [{ "@from": "08/20/2020 22:00:00", "@to": "08/21/2020 01:00:00"}],
+      "message": {"@eng": "Due to system maintenance, the service is temporarily unavailable. Sorry for any inconvenience caused.", "@zhs": "因现正进行系统维护，暂时未能提供服务，不便之处，敬请原谅。", "@zht": "因現正進行系統維護，暫時未能提供服務，不便之處，敬請原諒。"}, "title": {"@eng": "System maintenance", "@zhs": "系统更新", "@zht": "系統更新"}
+    }
+	
+  ], 
+
+  "comment_notice":"--------------------------------------For  Notice----------------------------------------------------------------------------",
+  
+  "notice": [
+  {
+      "create": "08/19/2020 11:00:00",
+      "date": [{ "@from": "08/19/2020 18:00:00", "@to": "08/20/2020 21:59:00"}],
+      "message": {
+        "@eng": "Services of AIA Connect will be temporarily suspended from 22:00 on Aug 20, 2020 to 01:00 on Aug 21, 2020 (HKT) . Sorry for any inconvenience that may cause.",
+        "@zhs": "友聯繫之服務將於(香港時間) 8月20日 22時至 8月21日 1時暫停。不便之處，敬請原諒。",
+        "@zht": "友联系之服务将于(香港时间) 8月20日 22时至8月21日1时暂停。不便之处，敬请原谅。"
+      },
+      "title": {"@eng": "System maintenance", "@zhs": "系统更新", "@zht": "系統更新"}
+    },
+	
+	{
+      "create": "08/20/2020 11:00:00",
+      "date": [{ "@from": "08/20/2020 18:00:00", "@to": "08/21/2020 21:59:00"}],
+      "message": {
+        "@eng": "Services of AIA Connect will be temporarily suspended from 22:00 on Aug 21, 2020 to 01:00 on Aug 22, 2020 (HKT) . Sorry for any inconvenience that may cause.",
+        "@zhs": "友聯繫之服務將於(香港時間) 8月21 日 22時至 8月22日 1 時暫停。不便之處，敬請原諒。",
+        "@zht": "友联系之服务将于(香港时间) 8月21日 22时至8月22日1时暂停。不便之处，敬请原谅。"
+      },
+      "title": {"@eng": "System maintenance", "@zhs": "系统更新", "@zht": "系統更新"}
+    },
+	
+ 	{
+      "create": "08/21/2020 14:00:00",
+      "date": [{ "@from": "08/21/2020 18:00:00", "@to": "08/22/2020 23:59:00"}],
+      "message": {
+        "@eng": "Services of AIA Connect will be temporarily suspended from 00:00 on Aug 23 to 03:00 on Aug 23, 2020 (HKT) . Sorry for any inconvenience that may cause.",
+        "@zhs": "友联系之服务将于(香港时间) 8月23日0时至8月23日3时暂停。不便之处，敬请原谅。",
+        "@zht": "友聯繫之服務將於(香港時間) 8月23日0時至8月23日3時暫停。不便之處，敬請原諒。"
+      },
+      "title": {"@eng": "System maintenance", "@zhs": "系统更新", "@zht": "系統更新"}
+    }
+  ],
+
+  "comment_butnotice":"--------------------------------------For SOLO BU----------------------------------------------------------------------------",
+  
+  "buNotice": [
+    {
+      "affected": ["ccId"],
+      "create": "09/01/2016 16:30:00",
+      "date": [{"@from": "11/06/2016 18:00:00", "@to": "11/06/2016 19:00:00"} ],
+      "message": {
+        "@eng": "Due to urgent system maintenance, the CC service will be temporarily unavailable. Sorry for any inconvenience caused.",
+        "@zhs": "因現正進行緊急系統維護,CC暫時未能提供服務,不便之处，敬请原谅。",
+        "@zht": "因現正進行緊急系統維護，CC暫時未能提供服務,不便之處，敬請原諒。"
+      },
+      "title": {"@eng": "CC System maintenance", "@zhs": "CC系统更新", "@zht": "CC系統更新"}
+    },
+    {
+      "affected": ["ptId"],
+      "create": "09/01/2016 16:30:00",
+      "date": [{"@from": "11/06/2016 18:00:00", "@to": "11/06/2016 19:00:00"} ],
+      "message": {
+        "@eng": "Due to urgent system maintenance, the PT service will be temporarily unavailable. Sorry for any inconvenience caused.",
+        "@zhs": "因現正進行緊急系統維護,PT暫時未能提供服務,不便之处，敬请原谅。",
+        "@zht": "因現正進行緊急系統維護，PT暫時未能提供服務,不便之處，敬請原諒。"
+      },
+      "title": {"@eng": "System maintenance", "@zhs": "PT系统更新", "@zht": "PT系統更新"}
+    },
+    {
+      "affected": ["ebId"],
+      "create": "09/01/2016 16:30:00",
+      "date": [{"@from": "11/06/2016 18:00:00", "@to": "11/06/2016 19:00:00"} ],
+      "message": {
+        "@eng": "Due to urgent system maintenance, the EB service will be temporarily unavailable. Sorry for any inconvenience caused.",
+        "@zhs": "因現正進行緊急系統維護,VT暫時未能提供服務,不便之处，敬请原谅。",
+        "@zht": "因現正進行緊急系統維護，VT暫時未能提供服務,不便之處，敬請原諒。"
+      },
+      "title": {"@eng": "EB System maintenance", "@zhs": "EB系統更新", "@zht": "EB系統更新"}
+    },
+    {
+      "affected": ["vtId"],
+      "create": "09/01/2016 16:30:00",
+      "date": [{"@from": "11/06/2016 18:00:00", "@to": "11/06/2016 19:00:00"} ],
+      "message": {
+        "@eng": "Due to urgent system maintenance, the VT service will be temporarily unavailable. Sorry for any inconvenience caused.",
+        "@zhs": "因現正進行緊急系統維護,VT暫時未能提供服務,不便之处，敬请原谅。",
+        "@zht": "因現正進行緊急系統維護，VT暫時未能提供服務,不便之處，敬請原諒。"
+      },
+      "title": {"@eng": "VT System maintenance", "@zhs": "VT系統更新", "@zht": "VT系統更新"}
+    }
+  ]
+}
